@@ -8,7 +8,7 @@
 
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: centre;">
       <th></th>
       <th>Name</th>
       <th>Age Cat</th>
@@ -19,5 +19,3 @@
   <tbody>
   </tbody>
 </table>
-
-<?php insertTemplate("results.html") ?>

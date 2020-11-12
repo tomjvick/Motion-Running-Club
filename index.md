@@ -8,7 +8,7 @@
 
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: centre;">
+    <tr style="text-align: right;">
       <th></th>
       <th>Name</th>
       <th>Age Cat</th>
@@ -17,20 +17,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th>1</th>
-      <td>Helen Roberton</td>
-      <td>25-30</td>
-      <td>F</td>
-      <td>21.01</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Tom Vick</td>
-      <td>25-30</td>
-      <td>M</td>
-      <td>22.00</td>
-    </tr>
   </tbody>
 </table>
 

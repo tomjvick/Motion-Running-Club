@@ -29,10 +29,5 @@
   </tbody>
 </table>
 
-html { 
-  background: url(https://github.com/tomjvick/Motion-Running-Club/blob/gh-pages/Bushy%20Deer.jpeg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+background: url(https://github.com/tomjvick/Motion-Running-Club/blob/gh-pages/Bushy%20Deer.jpeg)
+  

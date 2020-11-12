@@ -1,4 +1,4 @@
-background: url("https://tomjvick.github.io/Bushy Deer.jpeg")
+background: url("Bushy Deer.JPEG")
 
 ## Motion Virtual Running Club Result
 ### Week 1: Bushy Park 7km Loop

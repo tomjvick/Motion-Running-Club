@@ -1,3 +1,5 @@
+background: url("../Bushy Deer.jpg")
+
 ## Motion Virtual Running Club Result
 ### Week 1: Bushy Park 7km Loop
 
@@ -29,5 +31,4 @@
   </tbody>
 </table>
 
-background: url(https://github.com/tomjvick/Motion-Running-Club/blob/gh-pages/Bushy%20Deer.jpeg)
   

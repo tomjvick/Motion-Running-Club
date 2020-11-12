@@ -1,9 +1,9 @@
 ## Motion Training Weekly Running Results
-
+### Week 1: Bushy Park 7km Loop
 
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: centre;">
       <th></th>
       <th>Name</th>
       <th>Age Cat</th>
@@ -13,25 +13,18 @@
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
-      <td>Charles</td>
-      <td>29</td>
-      <td>F</td>
-      <td>17.05</td>
-    </tr>
-    <tr>
       <th>1</th>
-      <td>Tommy</td>
-      <td>26</td>
-      <td>M</td>
-      <td>19.05</td>
+      <td>Helen Roberton</td>
+      <td>25-30</td>
+      <td>F</td>
+      <td>21.01</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Helen</td>
-      <td>27</td>
-      <td>F</td>
-      <td>22.30</td>
+      <td>Tom Vick</td>
+      <td>25-30</td>
+      <td>M</td>
+      <td>22.00</td>
     </tr>
   </tbody>
 </table>

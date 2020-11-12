@@ -1,10 +1,7 @@
-body {
- background-image: url("Bushy Deer.jpg");
- background-color: #cccccc;
-}
-
 ## Motion Virtual Running Club Result
 ### Week 1: Bushy Park 7km Loop
+
+![Bushy Deer](https://user-images.githubusercontent.com/74325300/98930631-cc0cf500-24d4-11eb-9d39-260b7269e0ac.jpeg)
 
 <table border="1" class="dataframe">
   <thead>

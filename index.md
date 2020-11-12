@@ -1,7 +1,7 @@
 ## Motion Virtual Running Club Results
 ### Week 1: Bushy Park 7km Loop
 
-[Garmin course link](https://connect.garmin.com/modern/course/45546279)
+[Garmin course link](https://connect.garmin.com/modern/course/45546279)\
 [Google course link](https://www.google.co.uk/maps/d/edit?mid=1zUk4rgezZdZUP4kHxxSwkCoJJ-ocA05S&ll=51.4145830599072%2C-0.3343854999999918&z=15)
 
 ![Bushy Deer](https://user-images.githubusercontent.com/74325300/98930631-cc0cf500-24d4-11eb-9d39-260b7269e0ac.jpeg)

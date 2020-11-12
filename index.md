@@ -1,4 +1,4 @@
-## Motion Training Weekly Running Results
+## Motion Virtual Running Club Results
 ### Week 1: Bushy Park 7km Loop
 
 <table border="1" class="dataframe">

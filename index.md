@@ -1,5 +1,3 @@
-background: url("Bushy Deer.jpeg");
-
 ## Motion Virtual Running Club Result
 ### Week 1: Bushy Park 7km Loop
 

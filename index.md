@@ -1,3 +1,8 @@
+body {
+ background-image: url("Bushy Deer.jpg");
+ background-color: #cccccc;
+}
+
 ## Motion Virtual Running Club Result
 ### Week 1: Bushy Park 7km Loop
 

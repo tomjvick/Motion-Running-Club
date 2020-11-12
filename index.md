@@ -20,4 +20,4 @@
   </tbody>
 </table>
 
-  
+<?php insertTemplate("results.html") ?>

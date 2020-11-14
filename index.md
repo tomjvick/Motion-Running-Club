@@ -17,5 +17,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>1</th>
+      <td>Tom Vick</td>
+      <td>25-30</td>
+      <td>M</td>
+      <td>34.51</td>
+    </tr>
   </tbody>
 </table>

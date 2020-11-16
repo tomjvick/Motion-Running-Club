@@ -19,10 +19,24 @@
   <tbody>
     <tr>
       <th>1</th>
+      <td>Fleur Dewsnap</td>
+      <td>n/a</td>
+      <td>F</td>
+      <td>32.34</td>
+    </tr>
+    <tr>
+      <th>2</th>
       <td>Tom Vick</td>
       <td>25-30</td>
       <td>M</td>
       <td>34.51</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Peter Haw</td>
+      <td>n/a</td>
+      <td>M</td>
+      <td>39.20</td>
     </tr>
   </tbody>
 </table>

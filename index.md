@@ -1,4 +1,25 @@
 ## Motion Virtual Running Club Results
+
+### Week 2: Surbiton River / Berrylands Loop (clockwise)
+
+[Garmin course link](https://connect.garmin.com/modern/course/45976621)\
+[Google course link](https://www.google.co.uk/maps/d/edit?mid=1sNPYQkVxGNX8JGxS-mRjCFc9juZz_tgu&usp=sharing)
+
+![promenade](https://user-images.githubusercontent.com/74325300/99855004-cc188f00-2b7d-11eb-9911-700862c2a016.png)
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: centre;">
+      <th></th>
+      <th>Name</th>
+      <th>Age Cat</th>
+      <th>Gender</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+</table>
+
 ### Week 1: Bushy Park 7km Loop (anticlockwise)
 
 [Garmin course link](https://connect.garmin.com/modern/course/45546279)\

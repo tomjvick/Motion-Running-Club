@@ -19,7 +19,7 @@
   </thead>
   <tbody>
 </table>
-
+\
 ### Week 1: Bushy Park 7km Loop (anticlockwise)
 
 [Garmin course link](https://connect.garmin.com/modern/course/45546279)\
